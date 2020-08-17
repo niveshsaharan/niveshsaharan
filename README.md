@@ -8,6 +8,38 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 <br />
 
 ---
+
+### Connect with me:
+
+[<img align="left" alt="nive.sh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Nivesh | Dev.To" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev]
+[<img align="left" alt="Nivesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Nivesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+---
+
+### Spotify Playing 🎧
+[<img src="https://niveshsaharan-spotify-planing.vercel.app/api/spotify-playing" alt="Nivesh Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Powerful ways to Supercharge your NGINX server and improve its performance](https://nive.sh/powerful-ways-to-supercharge-your-nginx-server-and-improve-its-performance)
+- [Ordering by belongs-to-many relationships in Laravel](https://nive.sh/ordering-by-belongs-to-many-relationships)
+- [Ordering by has-many relationships in Laravel](https://nive.sh/ordering-by-has-many-relationships)
+- [Ordering by belongs-to relationships in Laravel](https://nive.sh/ordering-by-belongs-to-relationships)
+- [Ordering by has-one relationships in Laravel](https://nive.sh/ordering-by-has-one-relationships)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://nive.sh)
+
+
+---
+
 <!--START_SECTION:tools-->
 ### Languages and Tools:
 <img align="left" alt="Php" title="Php" width="50" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
@@ -47,37 +79,6 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 <br />
 &nbsp;
 <br />
-
-
----
-
-### Connect with me:
-
-[<img align="left" alt="nive.sh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Nivesh | Dev.To" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev]
-[<img align="left" alt="Nivesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Nivesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
----
-
-### Spotify Playing 🎧
-[<img src="https://niveshsaharan-spotify-planing.vercel.app/api/spotify-playing" alt="Nivesh Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Powerful ways to Supercharge your NGINX server and improve its performance](https://nive.sh/powerful-ways-to-supercharge-your-nginx-server-and-improve-its-performance)
-- [Ordering by belongs-to-many relationships in Laravel](https://nive.sh/ordering-by-belongs-to-many-relationships)
-- [Ordering by has-many relationships in Laravel](https://nive.sh/ordering-by-has-many-relationships)
-- [Ordering by belongs-to relationships in Laravel](https://nive.sh/ordering-by-belongs-to-relationships)
-- [Ordering by has-one relationships in Laravel](https://nive.sh/ordering-by-has-one-relationships)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://nive.sh)
 
 ---
 
