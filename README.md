@@ -10,41 +10,41 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 ### Languages and Tools:
 
 <a href="#">
-  <img src="icons/html.svg" alt="HTML" />
+  <img src="https://github.com/niveshsaharan/niveshsaharan/raw/master/icons/html.svg" alt="HTML" />
 </a> 
 
 <a href="#">
-  <img src="icons/js.svg" alt="JavaScript" />
+  <img src="https://github.com/niveshsaharan/niveshsaharan/raw/master/icons/js.svg" alt="JavaScript" />
 </a> 
 
 <a href="#">
-  <img src="icons/jquery.svg" alt="jQuery" />
+  <img src="https://github.com/niveshsaharan/niveshsaharan/raw/master/icons/jquery.svg" alt="jQuery" />
 </a> 
 
 <a href="#">
-  <img src="icons/php.svg" alt="Php" />
+  <img src="https://github.com/niveshsaharan/niveshsaharan/raw/master/icons/php.svg" alt="Php" />
 </a> 
 
 <a href="#">
-  <img src="icons/laravel.svg" alt="Laravel" />
+  <img src="https://github.com/niveshsaharan/niveshsaharan/raw/master/icons/laravel.svg" alt="Laravel" />
 </a> 
 
 <a href="#">
-  <img src="icons/react.svg" alt="React" />
+  <img src="https://github.com/niveshsaharan/niveshsaharan/raw/master/icons/react.svg" alt="React" />
 </a> 
 <a href="#">
-  <img src="icons/vue.svg" alt="Vue.js" />
-</a> 
-
-<a href="#">
-  <img src="icons/nodejs.svg" alt="Node.js" />
-</a> 
-<a href="#">
-  <img src="icons/npm.svg" alt="npm" />
+  <img src="https://github.com/niveshsaharan/niveshsaharan/raw/master/icons/vue.svg" alt="Vue.js" />
 </a> 
 
 <a href="#">
-  <img src="icons/jetbrains_phpstorm.svg" alt="PhpStorm" />
+  <img src="https://github.com/niveshsaharan/niveshsaharan/raw/master/icons/nodejs.svg" alt="Node.js" />
+</a> 
+<a href="#">
+  <img src="https://github.com/niveshsaharan/niveshsaharan/raw/master/icons/npm.svg" alt="npm" />
+</a> 
+
+<a href="#">
+  <img src="https://github.com/niveshsaharan/niveshsaharan/raw/master/icons/jetbrains_phpstorm.svg" alt="PhpStorm" />
 </a> 
 
 <a href="#">
@@ -52,10 +52,10 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 </a> 
 
 <a href="#">
-  <img src="icons/aws.svg" alt="AWS" />
+  <img src="https://github.com/niveshsaharan/niveshsaharan/raw/master/icons/aws.svg" alt="AWS" />
 </a> 
 <a href="#">
-  <img src="icons/digitalocean.svg" alt="Digital ocean" />
+  <img src="https://github.com/niveshsaharan/niveshsaharan/raw/master/icons/digitalocean.svg" alt="Digital ocean" />
 </a> 
 
 ---
