@@ -44,7 +44,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Powerful ways to Supercharge your NGINX server and improve its performance](https://nive.sh/powerful-ways-to-supercharge-your-nginx-server-and-improve-its-performance)
+- [Ordering by belongs-to-many relationships in Laravel](https://nive.sh/ordering-by-belongs-to-many-relationships)
+- [Ordering by has-many relationships in Laravel](https://nive.sh/ordering-by-has-many-relationships)
+- [Ordering by belongs-to relationships in Laravel](https://nive.sh/ordering-by-belongs-to-relationships)
+- [Ordering by has-one relationships in Laravel](https://nive.sh/ordering-by-has-one-relationships)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nive.sh)
@@ -55,6 +59,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com//niveshsaharan/niveshsaharan/pull/1) in [niveshsaharan/niveshsaharan](https://github.com//niveshsaharan/niveshsaharan)
+2. 🗣 Commented on [#1056](https://github.com//barryvdh/laravel-debugbar/issues/1056) in [barryvdh/laravel-debugbar](https://github.com//barryvdh/laravel-debugbar)
+3. 🎉 Merged PR [#1](https://github.com//niveshsaharan/shark/pull/1) in [niveshsaharan/shark](https://github.com//niveshsaharan/shark)
+4. 💪 Opened PR [#1](https://github.com//niveshsaharan/shark/pull/1) in [niveshsaharan/shark](https://github.com//niveshsaharan/shark)
+5. 🗣 Commented on [#2457](https://github.com//JeffreyWay/laravel-mix/issues/2457) in [JeffreyWay/laravel-mix](https://github.com//JeffreyWay/laravel-mix)
 <!--END_SECTION:activity-->
 
 </details>
