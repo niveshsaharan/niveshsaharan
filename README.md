@@ -5,8 +5,6 @@
 
 I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress), Javascript (React.js Vue.js) and have experience in building Shopify stores, Shopify apps and Shopify Themes.</p>
 
-<br />
-
 ---
 
 ### Languages and Tools:
@@ -73,8 +71,6 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 [<img align="left" alt="Nivesh | Dev.To" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev]
 [<img align="left" alt="Nivesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Nivesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ---
 
