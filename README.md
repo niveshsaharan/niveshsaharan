@@ -84,6 +84,11 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 - [Ordering by has-many relationships in Laravel](https://nive.sh/ordering-by-has-many-relationships)
 - [Ordering by belongs-to relationships in Laravel](https://nive.sh/ordering-by-belongs-to-relationships)
 - [Ordering by has-one relationships in Laravel](https://nive.sh/ordering-by-has-one-relationships)
+- [Faster ordering using compound indexes in MySQL & Laravel](https://nive.sh/faster-ordering-using-compound-indexes)
+- [Running authorization policies in the database & Laravel](https://nive.sh/running-authorization-policies-in-the-database)
+- [Fuzzier searching using regular expressions in MySQL & Laravel](https://nive.sh/fuzzier-searching-using-regular-expressions)
+- [Using UNIONs to run queries independently in MySQL & Laravel](https://nive.sh/using-UNIONs-to-run-queries-independently)
+- [Different types of Shopify apps](https://nive.sh/types-of-shopify-apps)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nive.sh)
