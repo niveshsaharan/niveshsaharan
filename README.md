@@ -72,6 +72,7 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 [<img align="left" alt="Nivesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Nivesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 ---
 
 ### 📕 Latest Blog Posts
