@@ -12,57 +12,53 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 ### Languages and Tools:
 
 <a href="#">
-  <img src="icons/html.svg" alt="HTML" style="vertical-align:top; margin:6px 4px">
+  <img src="icons/html.svg" alt="HTML" />
 </a> 
 
 <a href="#">
-  <img src="icons/js.svg" alt="JavaScript" style="vertical-align:top; margin:6px 4px">
+  <img src="icons/js.svg" alt="JavaScript" />
 </a> 
 
 <a href="#">
-  <img src="icons/jquery.svg" alt="jQuery" style="vertical-align:top; margin:6px 4px">
+  <img src="icons/jquery.svg" alt="jQuery" />
 </a> 
 
 <a href="#">
-  <img src="icons/php.svg" alt="Php" style="vertical-align:top; margin:6px 4px">
+  <img src="icons/php.svg" alt="Php" />
 </a> 
 
 <a href="#">
-  <img src="icons/laravel.svg" alt="Laravel" style="vertical-align:top; margin:6px 4px">
+  <img src="icons/laravel.svg" alt="Laravel" />
 </a> 
 
 <a href="#">
-  <img src="icons/react.svg" alt="React" style="vertical-align:top; margin:6px 4px">
+  <img src="icons/react.svg" alt="React" />
 </a> 
 <a href="#">
-  <img src="icons/vue.svg" alt="Vue.js" style="vertical-align:top; margin:6px 4px">
+  <img src="icons/vue.svg" alt="Vue.js" />
 </a> 
 
 <a href="#">
-  <img src="icons/nodejs.svg" alt="Node.js" style="vertical-align:top; margin:6px 4px">
+  <img src="icons/nodejs.svg" alt="Node.js" />
 </a> 
 <a href="#">
-  <img src="icons/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+  <img src="icons/npm.svg" alt="npm" />
 </a> 
 
 <a href="#">
-  <img src="icons/jetbrains_phpstorm.svg" alt="PhpStorm" style="vertical-align:top; margin:6px 4px">
+  <img src="icons/jetbrains_phpstorm.svg" alt="PhpStorm" />
 </a> 
 
 <a href="#">
-  <img src="icons/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:6px 4px">
+  <img src="icons/visualstudio_code.svg" alt="Visual Studio Code" />
 </a> 
 
 <a href="#">
-  <img src="icons/aws.svg" alt="AWS" style="vertical-align:top; margin:6px 4px">
+  <img src="icons/aws.svg" alt="AWS" />
 </a> 
 <a href="#">
-  <img src="icons/digitalocean.svg" alt="Digital ocean" style="vertical-align:top; margin:6px 4px">
+  <img src="icons/digitalocean.svg" alt="Digital ocean" />
 </a> 
-
-<br />
-&nbsp;
-<br />
 
 ---
 
