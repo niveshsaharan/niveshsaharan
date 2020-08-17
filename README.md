@@ -48,7 +48,7 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 </a> 
 
 <a href="#">
-  <img src="icons/visualstudio_code.svg" alt="Visual Studio Code" />
+  <img src="https://github.com/niveshsaharan/niveshsaharan/raw/master/icons/visualstudio_code.svg" alt="Visual Studio Code" />
 </a> 
 
 <a href="#">
