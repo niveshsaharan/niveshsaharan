@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **niveshsaharan/niveshsaharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hey 👋, This is Nivesh Saharan
+[![Gmail Badge](https://img.shields.io/badge/-hey@nive.sh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hey@nive.sh)](mailto:hey@nive.sh) [![Github Badge](https://img.shields.io/badge/-niveshsaharan-grey?style=flat&logo=github&logoColor=white&link=https://github.com/niveshsaharan/)](https://www.github.com/niveshsaharan/) [![Twitter Badge](https://img.shields.io/badge/-nivesh_saharan-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/nivesh_saharan/)](https://www.twitter.com/nivesh_saharan/) <p align='left'>I am a web developer specialized in building web apps in Php7(Laravel, Codeigniter, Wordpress), Javascript (React,.js Vue .js) and have experience in building Shopify stores, Shopify apps and Shopify Themes.</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=niveshsaharan alt=niveshsaharan /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=niveshsaharan&show_icons=true&include_all_commits=true)](https://github.com/niveshsaharan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niveshsaharan&layout=compact)](https://github.com/niveshsaharan/github-readme-stats)
