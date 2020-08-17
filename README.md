@@ -40,6 +40,29 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 
 ---
 
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com//niveshsaharan/niveshsaharan/pull/1) in [niveshsaharan/niveshsaharan](https://github.com//niveshsaharan/niveshsaharan)
+2. 🗣 Commented on [#1056](https://github.com//barryvdh/laravel-debugbar/issues/1056) in [barryvdh/laravel-debugbar](https://github.com//barryvdh/laravel-debugbar)
+3. 🎉 Merged PR [#1](https://github.com//niveshsaharan/shark/pull/1) in [niveshsaharan/shark](https://github.com//niveshsaharan/shark)
+4. 💪 Opened PR [#1](https://github.com//niveshsaharan/shark/pull/1) in [niveshsaharan/shark](https://github.com//niveshsaharan/shark)
+5. 🗣 Commented on [#2457](https://github.com//JeffreyWay/laravel-mix/issues/2457) in [JeffreyWay/laravel-mix](https://github.com//JeffreyWay/laravel-mix)
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Nivesh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=niveshsaharan&show_icons=true&hide_border=true" />
+
+</details>
+
+---
+
 <!--START_SECTION:tools-->
 ### Languages and Tools:
 <img align="left" alt="Php" title="Php" width="50" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
@@ -74,33 +97,6 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 <img align="left" alt="Terminal" title="Terminal" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <!--END_SECTION:tools-->
-<dl>
-  </dl>
-<br />
-&nbsp;
-<br />
-
----
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//niveshsaharan/niveshsaharan/pull/1) in [niveshsaharan/niveshsaharan](https://github.com//niveshsaharan/niveshsaharan)
-2. 🗣 Commented on [#1056](https://github.com//barryvdh/laravel-debugbar/issues/1056) in [barryvdh/laravel-debugbar](https://github.com//barryvdh/laravel-debugbar)
-3. 🎉 Merged PR [#1](https://github.com//niveshsaharan/shark/pull/1) in [niveshsaharan/shark](https://github.com//niveshsaharan/shark)
-4. 💪 Opened PR [#1](https://github.com//niveshsaharan/shark/pull/1) in [niveshsaharan/shark](https://github.com//niveshsaharan/shark)
-5. 🗣 Commented on [#2457](https://github.com//JeffreyWay/laravel-mix/issues/2457) in [JeffreyWay/laravel-mix](https://github.com//JeffreyWay/laravel-mix)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Nivesh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=niveshsaharan&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://nive.sh
 [twitter]: https://twitter.com/nivesh_saharan
