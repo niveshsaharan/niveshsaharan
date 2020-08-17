@@ -44,7 +44,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Powerful ways to Supercharge your NGINX server and improve its performance](https://nive.sh/powerful-ways-to-supercharge-your-nginx-server-and-improve-its-performance)
+- [Ordering by belongs-to-many relationships in Laravel](https://nive.sh/ordering-by-belongs-to-many-relationships)
+- [Ordering by has-many relationships in Laravel](https://nive.sh/ordering-by-has-many-relationships)
+- [Ordering by belongs-to relationships in Laravel](https://nive.sh/ordering-by-belongs-to-relationships)
+- [Ordering by has-one relationships in Laravel](https://nive.sh/ordering-by-has-one-relationships)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nive.sh)
