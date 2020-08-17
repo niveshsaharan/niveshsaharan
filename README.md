@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Can you hear me?</h1>
 
 
-<p>My name is Nivesh and I am a Fullstack developer from <img src="icons/IN.png" width="13"/> <b>India</b>, currently living in <img src="icons/IN.png" width="13"/> <b>Gurgaon, India</b>. 
+<p>My name is Nivesh and I am a Fullstack developer from <img src="https://raw.githubusercontent.com/niveshsaharan/niveshsaharan/master/icons/IN.png" width="13"/> <b>India</b>, currently living in <img src="https://raw.githubusercontent.com/niveshsaharan/niveshsaharan/master/icons/IN.png" width="13"/> <b>Gurgaon, India</b>. 
 
 I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress), Javascript (React.js Vue.js) and have experience in building Shopify stores, Shopify apps and Shopify Themes.</p>
 
@@ -36,7 +36,7 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 <img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 <img align="left" alt="Vagrant" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" />
-<img align="left" alt="PhpStorm" width="26px" src="icons/phpstorm.svg" />
+<img align="left" alt="PhpStorm" width="26px" src="https://raw.githubusercontent.com/niveshsaharan/niveshsaharan/master/icons/phpstorm.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
