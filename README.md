@@ -44,6 +44,10 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 </a> 
 
 <a href="#">
+  <img src="https://github.com/niveshsaharan/niveshsaharan/raw/master/icons/shopify.svg" alt="Shopify" />
+</a> 
+
+<a href="#">
   <img src="https://github.com/niveshsaharan/niveshsaharan/raw/master/icons/jetbrains_phpstorm.svg" alt="PhpStorm" />
 </a> 
 
