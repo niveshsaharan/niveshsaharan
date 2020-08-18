@@ -95,6 +95,22 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 
 ---
 
+### 🔥 Shopify apps I have built
+
+<!-- SHOPIFY-APPS-LIST:START -->
+- [ULTIMATE Cart Drawer](https://apps.shopify.com/ultimate-cart-drawer)
+- [ULTIMATE Countdown Timer](https://apps.shopify.com/ultimate-countdown-timer)
+- [ULTIMATE Currency Converter](https://apps.shopify.com/ultimate-currency-converter)
+- [Surveyor](https://apps.shopify.com/surveyor)
+- [ULTIMATE Post Purchase Upsell](https://apps.shopify.com/profit-panda)
+- [ULTIMATE Announcement Bar](https://apps.shopify.com/ultimate-announcement-bar-1)
+- [Yo](https://apps.shopify.com/yo)
+- [Thank you page customizer](https://apps.shopify.com/thank-you-page)
+- [Sticky Buy Button](#)
+<!-- SHOPIFY-APPS-LIST:END -->
+
+---
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
