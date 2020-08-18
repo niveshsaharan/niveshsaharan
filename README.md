@@ -60,11 +60,6 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 
 ---
 
-### Spotify Playing 🎧
-[<img src="https://niveshsaharan-spotify-planing.vercel.app/api/spotify-playing" alt="Nivesh Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
----
-
 ### 🔥 Shopify apps I have built
 
 <!-- SHOPIFY-APPS-LIST:START -->
@@ -97,6 +92,11 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nive.sh)
+
+---
+
+### Spotify Playing 🎧
+[<img src="https://niveshsaharan-spotify-planing.vercel.app/api/spotify-playing" alt="Nivesh Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ---
 
