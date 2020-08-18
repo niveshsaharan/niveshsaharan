@@ -65,14 +65,19 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 
 ---
 
-### Connect with me:
+### 🔥 Shopify apps I have built
 
-[<img align="left" alt="nive.sh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Nivesh | Dev.To" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev]
-[<img align="left" alt="Nivesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Nivesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+<!-- SHOPIFY-APPS-LIST:START -->
+- [ULTIMATE Cart Drawer](https://apps.shopify.com/ultimate-cart-drawer)
+- [ULTIMATE Countdown Timer](https://apps.shopify.com/ultimate-countdown-timer)
+- [ULTIMATE Currency Converter](https://apps.shopify.com/ultimate-currency-converter)
+- [Surveyor](https://apps.shopify.com/surveyor)
+- [ULTIMATE Post Purchase Upsell](https://apps.shopify.com/profit-panda)
+- [ULTIMATE Announcement Bar](https://apps.shopify.com/ultimate-announcement-bar-1)
+- [Yo](https://apps.shopify.com/yo)
+- [Thank you page customizer](https://apps.shopify.com/thank-you-page)
+- [Sticky Buy Button](#)
+<!-- SHOPIFY-APPS-LIST:END -->
 
 ---
 
@@ -95,19 +100,14 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 
 ---
 
-### 🔥 Shopify apps I have built
+### Connect with me:
 
-<!-- SHOPIFY-APPS-LIST:START -->
-- [ULTIMATE Cart Drawer](https://apps.shopify.com/ultimate-cart-drawer)
-- [ULTIMATE Countdown Timer](https://apps.shopify.com/ultimate-countdown-timer)
-- [ULTIMATE Currency Converter](https://apps.shopify.com/ultimate-currency-converter)
-- [Surveyor](https://apps.shopify.com/surveyor)
-- [ULTIMATE Post Purchase Upsell](https://apps.shopify.com/profit-panda)
-- [ULTIMATE Announcement Bar](https://apps.shopify.com/ultimate-announcement-bar-1)
-- [Yo](https://apps.shopify.com/yo)
-- [Thank you page customizer](https://apps.shopify.com/thank-you-page)
-- [Sticky Buy Button](#)
-<!-- SHOPIFY-APPS-LIST:END -->
+[<img align="left" alt="nive.sh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Nivesh | Dev.To" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev]
+[<img align="left" alt="Nivesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Nivesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 ---
 
