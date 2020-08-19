@@ -119,11 +119,11 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//niveshsaharan/niveshsaharan/pull/1) in [niveshsaharan/niveshsaharan](https://github.com//niveshsaharan/niveshsaharan)
-2. 🗣 Commented on [#1056](https://github.com//barryvdh/laravel-debugbar/issues/1056) in [barryvdh/laravel-debugbar](https://github.com//barryvdh/laravel-debugbar)
-3. 🎉 Merged PR [#1](https://github.com//niveshsaharan/shark/pull/1) in [niveshsaharan/shark](https://github.com//niveshsaharan/shark)
-4. 💪 Opened PR [#1](https://github.com//niveshsaharan/shark/pull/1) in [niveshsaharan/shark](https://github.com//niveshsaharan/shark)
-5. 🗣 Commented on [#2457](https://github.com//JeffreyWay/laravel-mix/issues/2457) in [JeffreyWay/laravel-mix](https://github.com//JeffreyWay/laravel-mix)
+1. 💪 Opened PR [#60](https://github.com//glorand/laravel-model-settings/pull/60) in [glorand/laravel-model-settings](https://github.com//glorand/laravel-model-settings)
+2. ❌ Closed PR [#59](https://github.com//glorand/laravel-model-settings/pull/59) in [glorand/laravel-model-settings](https://github.com//glorand/laravel-model-settings)
+3. 💪 Opened PR [#59](https://github.com//glorand/laravel-model-settings/pull/59) in [glorand/laravel-model-settings](https://github.com//glorand/laravel-model-settings)
+4. 💪 Opened PR [#1](https://github.com//niveshsaharan/niveshsaharan/pull/1) in [niveshsaharan/niveshsaharan](https://github.com//niveshsaharan/niveshsaharan)
+5. 🗣 Commented on [#1056](https://github.com//barryvdh/laravel-debugbar/issues/1056) in [barryvdh/laravel-debugbar](https://github.com//barryvdh/laravel-debugbar)
 <!--END_SECTION:activity-->
 
 </details>
