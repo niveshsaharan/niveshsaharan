@@ -83,6 +83,7 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ordering with NULLs always last - Example 1](https://nive.sh/ordering-with-NULLs-always-last-part-1)
 - [Powerful ways to Supercharge your NGINX server and improve its performance](https://nive.sh/powerful-ways-to-supercharge-your-nginx-server-and-improve-its-performance)
 - [Ordering by belongs-to-many relationships in Laravel](https://nive.sh/ordering-by-belongs-to-many-relationships)
 - [Ordering by has-many relationships in Laravel](https://nive.sh/ordering-by-has-many-relationships)
@@ -92,7 +93,6 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 - [Running authorization policies in the database & Laravel](https://nive.sh/running-authorization-policies-in-the-database)
 - [Fuzzier searching using regular expressions in MySQL & Laravel](https://nive.sh/fuzzier-searching-using-regular-expressions)
 - [Using UNIONs to run queries independently in MySQL & Laravel](https://nive.sh/using-UNIONs-to-run-queries-independently)
-- [Different types of Shopify apps](https://nive.sh/types-of-shopify-apps)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nive.sh)
