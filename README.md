@@ -119,11 +119,11 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//niveshsaharan/shark/pull/2) in [niveshsaharan/shark](https://github.com//niveshsaharan/shark)
-2. 💪 Opened PR [#2](https://github.com//niveshsaharan/shark/pull/2) in [niveshsaharan/shark](https://github.com//niveshsaharan/shark)
-3. 💪 Opened PR [#60](https://github.com//glorand/laravel-model-settings/pull/60) in [glorand/laravel-model-settings](https://github.com//glorand/laravel-model-settings)
-4. ❌ Closed PR [#59](https://github.com//glorand/laravel-model-settings/pull/59) in [glorand/laravel-model-settings](https://github.com//glorand/laravel-model-settings)
-5. 💪 Opened PR [#59](https://github.com//glorand/laravel-model-settings/pull/59) in [glorand/laravel-model-settings](https://github.com//glorand/laravel-model-settings)
+1. 🗣 Commented on [#522](https://github.com//osiset/laravel-shopify/issues/522) in [osiset/laravel-shopify](https://github.com//osiset/laravel-shopify)
+2. 🗣 Commented on [#551](https://github.com//osiset/laravel-shopify/issues/551) in [osiset/laravel-shopify](https://github.com//osiset/laravel-shopify)
+3. 🎉 Merged PR [#2](https://github.com//niveshsaharan/shark/pull/2) in [niveshsaharan/shark](https://github.com//niveshsaharan/shark)
+4. 💪 Opened PR [#2](https://github.com//niveshsaharan/shark/pull/2) in [niveshsaharan/shark](https://github.com//niveshsaharan/shark)
+5. 💪 Opened PR [#60](https://github.com//glorand/laravel-model-settings/pull/60) in [glorand/laravel-model-settings](https://github.com//glorand/laravel-model-settings)
 <!--END_SECTION:activity-->
 
 </details>
