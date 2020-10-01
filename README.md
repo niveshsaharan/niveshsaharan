@@ -83,16 +83,14 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ordering with NULLs always last - Example 1](https://nive.sh/ordering-with-NULLs-always-last-part-1)
 - [Powerful ways to Supercharge your NGINX server and improve its performance](https://nive.sh/powerful-ways-to-supercharge-your-nginx-server-and-improve-its-performance)
-- [Ordering by belongs-to-many relationships in Laravel](https://nive.sh/ordering-by-belongs-to-many-relationships)
-- [Ordering by has-many relationships in Laravel](https://nive.sh/ordering-by-has-many-relationships)
-- [Ordering by belongs-to relationships in Laravel](https://nive.sh/ordering-by-belongs-to-relationships)
-- [Ordering by has-one relationships in Laravel](https://nive.sh/ordering-by-has-one-relationships)
-- [Faster ordering using compound indexes in MySQL & Laravel](https://nive.sh/faster-ordering-using-compound-indexes)
-- [Running authorization policies in the database & Laravel](https://nive.sh/running-authorization-policies-in-the-database)
-- [Fuzzier searching using regular expressions in MySQL & Laravel](https://nive.sh/fuzzier-searching-using-regular-expressions)
-- [Using UNIONs to run queries independently in MySQL & Laravel](https://nive.sh/using-UNIONs-to-run-queries-independently)
+- [Different types of Shopify apps](https://nive.sh/types-of-shopify-apps)
+- [Laravel/Php - How to serve gzipped content from S3](https://nive.sh/how-to-serve-gzipped-content-from-s3-in-laravel-php)
+- [A Few Quick Terminal Tips](https://nive.sh/few-quick-terminal-tips)
+- [A Practical guide to use LocalStorage and SessionStorage](https://nive.sh/practical-guide-to-use-localstorage-and-sessionstorage)
+- [A Practical guide to use Fetch API](https://nive.sh/practical-guide-to-use-fetch-api)
+- [A better approach to keep Laravel .env files for multiple environments](https://nive.sh/better-approach-to-keep-env-files-for-multiple-environments)
+- [My Nginx configurations for Virtual Host, SSL etc.](https://nive.sh/my-nginx-configurations-for-virtual-host-ssl-etc)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nive.sh)
