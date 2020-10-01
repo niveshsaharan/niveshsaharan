@@ -119,9 +119,9 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#242](https://github.com/inertiajs/inertia/issues/242) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
 2. 🗣 Commented on [#242](https://github.com/inertiajs/inertia/issues/242) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
-3. ❗️ Opened issue [#242](https://github.com/inertiajs/inertia/issues/242) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
-4. 🎉 Merged PR [#4](https://github.com/niveshsaharan/shark/pull/4) in [niveshsaharan/shark](https://github.com/niveshsaharan/shark)
-5. 💪 Opened PR [#4](https://github.com/niveshsaharan/shark/pull/4) in [niveshsaharan/shark](https://github.com/niveshsaharan/shark)
+3. 🗣 Commented on [#242](https://github.com/inertiajs/inertia/issues/242) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
+4. 🗣 Commented on [#242](https://github.com/inertiajs/inertia/issues/242) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
+5. ❗️ Opened issue [#242](https://github.com/inertiajs/inertia/issues/242) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
 <!--END_SECTION:activity-->
 
 </details>
