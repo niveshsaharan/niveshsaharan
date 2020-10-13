@@ -117,11 +117,11 @@ I am specialized in building web apps using Php7(Laravel, Codeigniter, Wordpress
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/niveshsaharan/shark/pull/6) in [niveshsaharan/shark](https://github.com/niveshsaharan/shark)
-2. 🎉 Merged PR [#5](https://github.com/niveshsaharan/shark/pull/5) in [niveshsaharan/shark](https://github.com/niveshsaharan/shark)
-3. ❌ Reopened PR [#5](https://github.com/niveshsaharan/shark/pull/5) in [niveshsaharan/shark](https://github.com/niveshsaharan/shark)
-4. ❌ Closed PR [#5](https://github.com/niveshsaharan/shark/pull/5) in [niveshsaharan/shark](https://github.com/niveshsaharan/shark)
-5. 💪 Opened PR [#5](https://github.com/niveshsaharan/shark/pull/5) in [niveshsaharan/shark](https://github.com/niveshsaharan/shark)
+1. 🗣 Commented on [#222](https://github.com/inertiajs/inertia/issues/222) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
+2. 💪 Opened PR [#6](https://github.com/niveshsaharan/shark/pull/6) in [niveshsaharan/shark](https://github.com/niveshsaharan/shark)
+3. 🎉 Merged PR [#5](https://github.com/niveshsaharan/shark/pull/5) in [niveshsaharan/shark](https://github.com/niveshsaharan/shark)
+4. ❌ Reopened PR [#5](https://github.com/niveshsaharan/shark/pull/5) in [niveshsaharan/shark](https://github.com/niveshsaharan/shark)
+5. ❌ Closed PR [#5](https://github.com/niveshsaharan/shark/pull/5) in [niveshsaharan/shark](https://github.com/niveshsaharan/shark)
 <!--END_SECTION:activity-->
 
 </details>
